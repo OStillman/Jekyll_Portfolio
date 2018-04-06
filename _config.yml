@@ -1,0 +1,15 @@
+#Site settings
+title: "Owen's Site"
+email: owen@ostillman.co.uk
+description: "Developer // Trainer"
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+port: 3000
+host: 0.0.0.0
+
+sass:
+  sass_dir: assets/css
+  style: :nested
